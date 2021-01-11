@@ -1,6 +1,6 @@
 # KAVA EQUITIES 2020 PERFRMANCE
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Niko-La/jupyter_equity_2020/master?filepath=notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Niko-La/jupyter_equity_2020/main?filepath=notebooks)
 [![Build Status](https://travis-ci.org/trekhleb/homemade-machine-learning.svg?branch=master)](https://travis-ci.org/trekhleb/homemade-machine-learning)
 
 > _You might be interested in 🤖 [POWEBIKE by Nikola](https://POWE.NETLIFY.COM)_
