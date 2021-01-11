@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Niko-La/jupyter_equity_2020/master?filepath=notebooks)
 [![Build Status](https://travis-ci.org/trekhleb/homemade-machine-learning.svg?branch=master)](https://travis-ci.org/trekhleb/homemade-machine-learning)
 
-> _You might be interested in 🤖 [POWEBIKE by Nikol](https://POWE.NETLIFY.COM)_
+> _You might be interested in 🤖 [POWEBIKE by Nikola](https://POWE.NETLIFY.COM)_
 
 
 > This repository contains examples of interactive **Python** Jupyter Notebook to provide window into the abilityt use modern scripting language to do stock market analysis on performance and using automation to create real time tools to gain an advantage for trading equities and options market. Each notebook has interactive **Jupyter Notebook** demo that allows you to play with the respective strategies, algorithms configurations and immediately see the results, charts and predictions **right in your browser**.
@@ -35,7 +35,7 @@ Currently thrre is two notebooks.
 
 ## Machine Learning Map
 
-![Machine Learning Map](images/Nothing_is_beyond_our_reach.svg)
+![Machine Learning Map](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANROL-39_Mission_Patch.png&psig=AOvVaw0S4nfzQ-U6sco7JEFSYSX7&ust=1610411898040000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiZqPvRku4CFQAAAAAdAAAAABAD)
 
 ## Prerequisites
 
