@@ -1,7 +1,7 @@
 # KAVA EQUITIES 2020 PERFRMANCE
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Niko-La/jupyter_equity_2020/master?filepath=notebooks)
-###[![Build Status](https://travis-ci.org/trekhleb/homemade-machine-learning.svg?branch=master)](https://travis-ci.org/trekhleb/homemade-machine-learning)
+[![Build Status](https://travis-ci.org/trekhleb/homemade-machine-learning.svg?branch=master)](https://travis-ci.org/trekhleb/homemade-machine-learning)
 
 > _You might be interested in 🤖 [Interactive Machine Learning Experiments](https://POWE.NETLIFY.COM)_
 
@@ -9,7 +9,7 @@ _For Octave/MatLab version of this repository please check [machine-learning-oct
 
 > This repository contains examples of interactive **Python** Jupyter Notebook to provide window into the abilityt use modern scripting language to do stock market analysis on performance and using automation to create real time tools to gain an advantage for trading equities and options market. Each notebook has interactive **Jupyter Notebook** demo that allows you to play with the respective strategies, algorithms configurations and immediately see the results, charts and predictions **right in your browser**.
 
-## Supervised Learning
+## EDUCATION ONLY / INVESTMENT DISCLAIMER
 
 Futures, options, and forex are leveraged instruments, and you can blow out your account. The content on this repo is for educational purposes. I am not your investment advisor and aren't trying to sell you securities or equities. You're responsible for your trading-- both gains and losses. There is a very high degree of risk involved in trading.
 
