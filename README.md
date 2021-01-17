@@ -1,7 +1,7 @@
 # KAVA EQUITIES 2020 PERFRMANCE
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Niko-La/jupyter_equity_2020/main?filepath=notebooks)
-[![Build Status](https://travis-ci.org/trekhleb/homemade-machine-learning.svg?branch=master)](https://travis-ci.org/trekhleb/homemade-machine-learning)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Niko-La/jupyter_equity_2020/main?filepath=%2Fnotebooks%2FRenewable_Energy.ipynb)
+
 
 > _You might be interested in 🤖 [POWEBIKE by Nikola](https://POWE.NETLIFY.COM)_
 
@@ -70,6 +70,10 @@ After this Jupyter Notebook will be accessible by `http://localhost:8888`.
 Each algorithm section contains demo links to [Jupyter NBViewer](http://nbviewer.jupyter.org/). This is fast online previewer for Jupyter notebooks where you may see demo code, charts and data right in your browser without installing anything locally. In case if you want to _change_ the code and _experiment_ with demo notebook you need to launch the notebook in [Binder](https://mybinder.org/). You may do it by simply clicking the _"Execute on Binder"_ link in top right corner of the NBViewer.
 
 ![](./images/binder-button-place.png)
+
+git add -A
+git commit -m "solar pv"
+git push origin main
 
 ## Datasets
 
